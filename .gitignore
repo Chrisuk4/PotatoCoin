@@ -1,0 +1,34 @@
+src/*.exe
+src/potatocoin
+src/potatocoind
+src/test_potatocoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.potatocoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+potatocoin-qt
+Potatocoin-Qt.app
+
+# Unit-tests
+Makefile.test
+potatocoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
