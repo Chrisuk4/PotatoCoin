@@ -1,4 +1,4 @@
-Potatocoin integration/staging tree
+Potatocoin
 ================================
 
 Website Will be coming up in the future
