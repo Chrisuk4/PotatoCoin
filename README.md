@@ -1,7 +1,7 @@
 Potatocoin integration/staging tree
 ================================
 
-http://www.potatocoin.org
+Website Will be coming up in the future
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
